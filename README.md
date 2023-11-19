@@ -10,6 +10,8 @@
   - [游戏源码仓库](https://gitgud.io/Vrelnir/degrees-of-lewdity/-/tree/master)
 - [授权汉化仓库](https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization)
 
+原作者：隨風飄逸
+[![已经过作者授权](https://i.postimg.cc/6QyvQydF/Image-1700406505100-edit-125728719731855.png)](https://postimg.cc/mcWDXZpS)
 
 ### 关于本仓库
 
