@@ -1,8 +1,7 @@
 # Degrees of Lewdity 作弊增强
 
 ## 写在最前...
-![作者头像](https://i.postimg.cc/9fX0Wjg4/avatar-png-200-200.png)
-<b>游戏作者</b> $\color{purple} {Vrelnir}$
+<b>游戏作者</b> $\color{purple} {Vrelnir}$ [作者头像](https://i.postimg.cc/9fX0Wjg4/avatar-png-200-200.png)
   - [Vrelnir 的博客](https://vrelnir.blogspot.com)
   - [英文游戏维基](https://degreesoflewdity.miraheze.org/wiki)
   - [中文游戏维基](https://degreesoflewditycn.miraheze.org/wiki)
