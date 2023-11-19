@@ -11,7 +11,7 @@
 - [授权汉化仓库](https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization)
 
 已经过Mod原作者「隨風飄逸」同意
-[![QQ截屏.png](https://i.postimg.cc/6QyvQydF/Image-1700406505100-edit-125728719731855.png)](https://postimg.cc/mcWDXZpS)
+[![QQ截屏.png](https://picst.sunbangyan.cn/2023/11/19/b689b0aba663b9a75ec8382adb2056e6.webp)](https://i.postimg.cc/6QyvQydF/Image-1700406505100-edit-125728719731855.png)
 
 ### 关于本仓库
 
