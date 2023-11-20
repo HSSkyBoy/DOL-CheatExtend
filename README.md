@@ -34,7 +34,7 @@
 ###### 图片有问题是截屏问题
 
 - 快捷传送+快速言灵
-![Screenshot-20231121-000614-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg](https://postimg.cc/xkLFbsZC)
+![Screenshot-20231121-000614-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg](https://i.postimg.cc/s2LFqq9p/Screenshot-20231121-000614-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg)
 
 - 新增传送
 ![Screenshot-20231120-001413-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg](https://i.postimg.cc/7Yr9V6bv/Screenshot-20231120-001413-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg)
