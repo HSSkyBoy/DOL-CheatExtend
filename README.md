@@ -15,19 +15,21 @@
 ### 关于本仓库
 
 本仓库是基于原版作弊功能制作的作弊增强Mod，使其能够在游戏内强制开启作弊功能，且仍可获得成就
+并且此模组自带随身衣柜功能
 
 ### Mod功能
 - 1.新增若干作弊功能
-- 2.摆摊可大量销售商品、报酬加倍
-- 3.寻欢洞报酬加倍
-- 4.跳舞报酬加倍
-- 5.牛奶产量调整、容量调整
-- 6.开启言灵
-- 7.疼痛衰减、伤害加倍
-- 8.在自宅用功学习、不想努力模式(学习进度120%)
-- 9.新增若干快速言灵、及时言灵
-- 10.快捷传送
-- 11.时间穿越+时间推进
+- 2.随身衣柜，现场换衣服
+- 3.摆摊可大量销售商品、报酬加倍
+- 4.寻欢洞报酬加倍
+- 5.跳舞报酬加倍
+- 6.牛奶产量调整、容量调整
+- 7.开启言灵
+- 8.疼痛衰减、伤害加倍
+- 9.在自宅用功学习、不想努力模式(学习进度120%)
+- 10.新增若干快速言灵、及时言灵
+- 11.快捷传送
+- 12.时间穿越+时间推进
 
 ### 功能预览
 #### 图片不代表最终品质
@@ -37,7 +39,7 @@
 ![Screenshot-20231121-000614-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg](https://i.postimg.cc/s2LFqq9p/Screenshot-20231121-000614-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg)
 
 - 新增传送
-![Screenshot-20231120-001413-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg](https://i.postimg.cc/7Yr9V6bv/Screenshot-20231120-001413-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg)
+![Screenshot-20231121-001413-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg](https://i.postimg.cc/vBdKJVSv/Screenshot-20231121-002344.jpg)
 
 - 其余新增功能
-![Screenshot_20231120_001530-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg](https://upload.cc/i1/2023/11/20/R8FLhf.jpg)
+![Screenshot_20231121_001530-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg](https://upload.cc/i1/2023/11/21/wbkY67.jpg)
