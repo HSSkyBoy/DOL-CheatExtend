@@ -31,7 +31,7 @@
 - 11.快捷传送
 - 12.时间穿越+时间推进
 
-### 功能预览
+### Mod功能预览
 #### 图片不代表最终品质
 ###### 图片有问题是截屏问题
 
@@ -42,4 +42,4 @@
 ![Screenshot-20231121-001413-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg](https://i.postimg.cc/mgY6R5zx/Screenshot-20231121-224343-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg)
 
 - 其余新增功能
-![Screenshot_20231121_001530-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg](https://upload.cc/i1/2023/11/21/wbkY67.jpg)
+![Screenshot_20231121_001530-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg](https://upload.cc/i1/2023/11/22/x0MFcT.jpg)
