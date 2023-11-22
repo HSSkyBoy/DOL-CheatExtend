@@ -42,4 +42,4 @@
 ![Screenshot-20231121-001413-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg](https://i.postimg.cc/mgY6R5zx/Screenshot-20231121-224343-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg)
 
 - 其余新增功能
-![Screenshot_20231121_001530-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg](https://upload.cc/i1/2023/11/22/1KIo7g.jpg)
+![Screenshot_20231121_001530-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg](https://i.ibb.co/02QFhPt/Screenshot-20231122-011107-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg)
