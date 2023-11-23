@@ -28,6 +28,7 @@ Degrees of Lewdity 中文本地化(https://github.com/Eltirosto/Degrees-of-Lewdi
 - 6.牛奶产量调整、容量调整
 - 7.开启言灵
 - 8.二代自定言灵(左侧状态栏)
+- By 用户_aeVUUeW@贴吧-DOL吧
 - 9.疼痛衰减、伤害加倍
 - 10.在自宅用功学习、不想努力模式(学习进度120%)
 - 11.新增若干快速言灵
