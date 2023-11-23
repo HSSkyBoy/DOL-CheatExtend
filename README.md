@@ -37,7 +37,7 @@
 ###### 图片有问题是截屏问题
 
 - 快捷传送+快速言灵+自定言灵(二代)
-[Screenshot-20231123-085056-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg](https://i.postimg.cc/cLC1GG6Z/Screenshot-20231123-085056-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg)
+![Screenshot-20231123-085056-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg](https://i.postimg.cc/cLC1GG6Z/Screenshot-20231123-085056-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg)
 
 - 新增传送
 ![Screenshot-20231121-001413-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg](https://i.postimg.cc/mgY6R5zx/Screenshot-20231121-224343-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg)
