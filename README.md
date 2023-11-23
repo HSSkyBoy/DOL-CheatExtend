@@ -16,8 +16,8 @@
 
 本仓库是基于原版作弊功能制作的作弊增强Mod，使其能够在游戏内强制开启作弊功能，且仍可获得成就
 并且此模组自带随身衣柜功能
-需要搭配MODLOADER(https://github.com/Lyoko-Jeremie/sugarcube-2-ModLoader)和
-Degrees of Lewdity 中文本地化(https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization)使用
+需要搭配[MODLOADER](https://github.com/Lyoko-Jeremie/sugarcube-2-ModLoader)和
+[Degrees of Lewdity 中文本地化](https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization)模组使用
 
 ### Mod功能
 - 1.新增若干作弊功能
