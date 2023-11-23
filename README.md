@@ -36,11 +36,11 @@
 #### 图片不代表最终品质
 ###### 图片有问题是截屏问题
 
-- 快捷传送+快速言灵
-![Screenshot-20231121-000614-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg](https://i.postimg.cc/s2LFqq9p/Screenshot-20231121-000614-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg)
+- 快捷传送+快速言灵+自定言灵(二代)
+[Screenshot-20231123-085056-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg](https://i.postimg.cc/cLC1GG6Z/Screenshot-20231123-085056-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg)
 
 - 新增传送
 ![Screenshot-20231121-001413-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg](https://i.postimg.cc/mgY6R5zx/Screenshot-20231121-224343-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg)
 
 - 其余新增功能
-![Screenshot_20231121_001530-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg](https://i.ibb.co/02QFhPt/Screenshot-20231122-011107-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg)
+![Screenshot_20231121_001530-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg](https://i.ibb.co/MRs2QDw/Screenshot-20231123-085909-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg)
