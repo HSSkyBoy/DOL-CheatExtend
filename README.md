@@ -5,7 +5,7 @@
   - [Vrelnir 的博客](https://vrelnir.blogspot.com)
   - [英文游戏维基](https://degreesoflewdity.miraheze.org/wiki)
   - [中文游戏维基](https://degreesoflewditycn.miraheze.org/wiki)
-     - [国内模组列表](https://degreesoflewditycn.miraheze.org/wiki/%E6%A8%A1%E7%BB%84%E5%88%97%E8%A1%A8)
+   - [国内模组列表](https://degreesoflewditycn.miraheze.org/wiki/%E6%A8%A1%E7%BB%84%E5%88%97%E8%A1%A8)
   - [官方 Discord](https://discord.gg/VznUtEhDOL)
   - [游戏源码仓库](https://gitgud.io/Vrelnir/degrees-of-lewdity/-/tree/master)
 * [官方汉化仓库](https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization)
@@ -27,11 +27,11 @@
 - 5.跳舞报酬加倍
 - 6.牛奶产量调整、容量调整
 - 7.开启言灵
-- 8.二代自定言灵(左侧状态栏)
+- 8.旧版自定言灵(左侧状态栏)
 - By 用户_aeVUUeW@贴吧-DOL吧
 - 9.疼痛衰减、伤害加倍
 - 10.在自宅用功学习、不想努力模式(学习进度120%)
-- 11.新增若干快速言灵
+- 11.新增若干快捷言灵
 - 12.快捷传送
 - 13.时间穿越+时间推进
 - 14.自动去除游戏内多余空格
