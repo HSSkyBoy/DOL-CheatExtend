@@ -2,7 +2,7 @@
 
 ## 写在最前...
 <b>游戏作者</b> $\color{purple} {Vrelnir}$ [作者头像](https://i.postimg.cc/9fX0Wjg4/avatar-png-200-200.png)
-  - [Vrelnir 的博客](https://vrelnir.blogspot.com)
+  * [Vrelnir 的博客](https://vrelnir.blogspot.com)
   - [英文游戏维基](https://degreesoflewdity.miraheze.org/wiki)
   - [中文游戏维基](https://degreesoflewditycn.miraheze.org/wiki)
       - [国内模组列表](https://degreesoflewditycn.miraheze.org/wiki/%E6%A8%A1%E7%BB%84%E5%88%97%E8%A1%A8)
