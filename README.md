@@ -17,8 +17,8 @@
 
 本仓库是基于原版作弊功能制作的作弊增强Mod，使其能够在游戏内强制开启作弊功能，且仍可获得成就
 并且此模组自带随身衣柜功能
-需要搭配[MODLOADER](https://github.com/Lyoko-Jeremie/DoLModLoaderBuild/releases)和
-[Degrees of Lewdity 中文本地化](https://github.com/NumberSir/DoL-I18n-Build/releases)模组使用
+需要使用[模组加载器](https://github.com/Lyoko-Jeremie/DoLModLoaderBuild/releases)
+并搭配[DOL中文本地化模组](https://github.com/NumberSir/DoL-I18n-Build/releases)模组使用
 
 ### Mod功能
 - 1.新增若干作弊功能
