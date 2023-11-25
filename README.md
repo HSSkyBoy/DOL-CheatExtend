@@ -5,6 +5,7 @@
   - [Vrelnir 的博客](https://vrelnir.blogspot.com)
   - [英文游戏维基](https://degreesoflewdity.miraheze.org/wiki)
   - [中文游戏维基](https://degreesoflewditycn.miraheze.org/wiki)
+  - [图内模组列表](https://degreesoflewditycn.miraheze.org/wiki/%E6%A8%A1%E7%BB%84%E5%88%97%E8%A1%A8)
   - [官方 Discord](https://discord.gg/VznUtEhDOL)
   - [游戏源码仓库](https://gitgud.io/Vrelnir/degrees-of-lewdity/-/tree/master)
 - [官方汉化仓库](https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization)
@@ -17,8 +18,8 @@
 
 本仓库是基于原版作弊功能制作的作弊增强Mod，使其能够在游戏内强制开启作弊功能，且仍可获得成就
 并且此模组自带随身衣柜功能
-需要搭配[MODLOADER](https://github.com/Lyoko-Jeremie/sugarcube-2-ModLoader)和
-[Degrees of Lewdity 中文本地化](https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization)模组使用
+需要搭配[MODLOADER](https://github.com/Lyoko-Jeremie/DoLModLoaderBuild/releases)和
+[Degrees of Lewdity 中文本地化](https://github.com/NumberSir/DoL-I18n-Build/releases)模组使用
 
 ### Mod功能
 - 1.新增若干作弊功能
