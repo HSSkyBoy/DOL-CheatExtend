@@ -5,7 +5,7 @@
   - [Vrelnir 的博客](https://vrelnir.blogspot.com)
   - [英文游戏维基](https://degreesoflewdity.miraheze.org/wiki)
   - [中文游戏维基](https://degreesoflewditycn.miraheze.org/wiki)
-    - [国内模组列表](https://degreesoflewditycn.miraheze.org/wiki/%E6%A8%A1%E7%BB%84%E5%88%97%E8%A1%A8)
+      - [国内模组列表](https://degreesoflewditycn.miraheze.org/wiki/%E6%A8%A1%E7%BB%84%E5%88%97%E8%A1%A8)
   - [官方 Discord](https://discord.gg/VznUtEhDOL)
   - [游戏源码仓库](https://gitgud.io/Vrelnir/degrees-of-lewdity/-/tree/master)
 - [官方汉化仓库](https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization)
