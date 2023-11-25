@@ -8,6 +8,7 @@
   - [官方 Discord](https://discord.gg/VznUtEhDOL)
   - [游戏源码仓库](https://gitgud.io/Vrelnir/degrees-of-lewdity/-/tree/master)
 - [官方汉化仓库](https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization)
+  - [国内模组wiki](https://degreesoflewditycn.miraheze.org/wiki/%E6%A8%A1%E7%BB%84%E5%88%97%E8%A1%A8)
 
 已经过Mod原作者「隨風飄逸」同意
 [![QQ截屏.png](https://picst.sunbangyan.cn/2023/11/19/b689b0aba663b9a75ec8382adb2056e6.webp)](https://i.postimg.cc/6QyvQydF/Image-1700406505100-edit-125728719731855.png)
@@ -46,5 +47,8 @@
 - 新增传送
 ![Screenshot-20231121-001413-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg](https://i.postimg.cc/mgY6R5zx/Screenshot-20231121-224343-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg)
 
+- 衣柜容量调整
+[![image.jpg](https://i.postimg.cc/RFcdtFbx/image.jpg)](https://postimg.cc/8JzLQ1SZ)
+
 - 其余新增功能
-![Screenshot.jpg](https://i.ibb.co/JcQwbVQ/Screenshot-20231124-223007-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg)
+![Screenshot.jpg](https://i.ibb.co/sF3zwRp/Screenshot-20231125-124945-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg)
