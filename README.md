@@ -29,15 +29,14 @@
 - 7.开启言灵
 - 8.旧版自定言灵(左侧状态栏)
 - By 用户_aeVUUeW@贴吧-DOL吧
-- 9.取消游戏内对言灵的限制
-- 来自[北级星](https://github.com/cphxj123/Dol-BJX-Mods/blob/main/%E8%A8%80%E7%81%B5%E8%A7%A3%E6%94%BE.zip)
-- 10.疼痛衰减、伤害加倍
-- 11.在自宅用功学习、不想努力模式(学习进度120%)
-- 12.新增若干快捷言灵
-- 13.新增若干传送地点
-- 14.左侧状态栏快捷传送
-- 15.时间穿越
-- 16.自动去除游戏内多余空格
+- 9.疼痛衰减、伤害加倍
+- 10.在自宅用功学习、不想努力模式(学习进度120%)
+- 11.新增若干快捷言灵
+- 12.新增若干传送地点
+- 13.左侧状态栏快捷传送
+- 14.时间穿越
+- 15.自动去除汉化的多余空格
+- 16.直接群P(有名字的NPC太多了，不想做单人的)
 
 ### Mod功能预览
 #### 图片不代表最终品质
@@ -55,5 +54,5 @@
 - 原地群P开干
 ![Screenshot-20231126-125828-com-android-gallery3d.png](https://i.postimg.cc/2yV37vLW/Screenshot-20231126-125828-com-android-gallery3d.png)
 
-- 其余新增功能
+- 其余扩展功能
 ![Screenshot.jpg](https://i.ibb.co/yVyjMhd/Screenshot-20231126-124623-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg)
