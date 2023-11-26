@@ -60,14 +60,25 @@
 ### 感谢
 #### 游戏作者 [Vrelnir](https://vrelnir.blogspot.com)
 - 是他创造了这款游戏，才令我们能游玩这一切
+
 #### Mod原作者 [隨風飄逸](https://github.com/chris81605)
 - 是他创造了此Mod
+
 #### 欲都孤儿 [汉化组](https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization)
 - 他们为我们带来了如此令人称赞的汉化
+
 #### ModLoader开发者 [Lyoko-Jeremie](https://github.com/Lyoko-Jeremie)
 - 提供了方便的Mod开发及使用工具，沒有ModLoader，Mod开发和使用会更加困难，难以普及
+
 #### 贴吧 用户_aeVUUeW[看原贴](https://tieba.baidu.com/p/8613337062)
 - 他制作了 二代言灵系统(新增于左侧状态样，独立显示无须回家)和随身衣柜功能
 
+#### 贴吧 Tony70124
+- 他写出了原地开干的言灵
+- 同时也谢谢 Dol吧用户 楚瀛，他最先写出了原地开干的多P言灵
+
 #### ？
 - 他为我们带来了显示多敌人HP的功能，可惜已经找不到他是谁了，如果你能证明是谁，那请赶快在讨论区留下你的发言，虽然没有任何报酬
+
+### 你
+- 因为你的支持，我才有了做下去的动力
