@@ -50,10 +50,10 @@
 ![Screenshot-20231121-001413-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg](https://i.postimg.cc/mgY6R5zx/Screenshot-20231121-224343-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg)
 
 - 衣柜容量调整
-![image.jpg](https://i.postimg.cc/RFcdtFbx/image.jpg)](https://postimg.cc/8JzLQ1SZ)
+![image.jpg](https://i.postimg.cc/RFcdtFbx/image.jpg)
 
 - 原地群P开干
-![Screenshot-20231126-125828-com-android-gallery3d.png](https://postimg.cc/0K188zf5)
+![Screenshot-20231126-125828-com-android-gallery3d.png](https://i.postimg.cc/2yV37vLW/Screenshot-20231126-125828-com-android-gallery3d.png)
 
 - 其余新增功能
 ![Screenshot.jpg](https://i.ibb.co/yVyjMhd/Screenshot-20231126-124623-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg)
