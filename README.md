@@ -49,6 +49,7 @@
 ![Screenshot-20231121-001413-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg](https://i.postimg.cc/mgY6R5zx/Screenshot-20231121-224343-com-vrelnir-Degrees-Of-Lewdity-Mod.jpg)
 
 - 衣柜容量调整
+- 可能出错，谨慎使用
 ![image.jpg](https://i.postimg.cc/RFcdtFbx/image.jpg)
 
 - 原地群P开干
