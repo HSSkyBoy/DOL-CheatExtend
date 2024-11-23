@@ -1,12 +1,11 @@
-# Degrees of Lewdity 作弊扩展
-
 ## 写在最前...
-<b>游戏作者</b> $\color{purple} {Vrelnir}$ [作者头像](https://i.postimg.cc/9fX0Wjg4/avatar-png-200-200.png)
- 
+
+<b>游戏作者</b> $\color{purple} {Vrelnir}$ ![作者头像](https://i.postimg.cc/9fX0Wjg4/avatar-png-200-200.png)
+
 - [Vrelnir 的博客][blog]
 - [游戏英文wiki][wiki-en]
 - [游戏中文wiki][wiki-cn]
-  -［国内模组列表][CNMOD]
+   - [国内模组列表][CNMOD]
 - [官方 Discord][discord]
 - [游戏源码仓库][gitgud]
 
@@ -20,7 +19,7 @@
 ### 关于本仓库
 
 - 本仓库是基于原版作弊功能制作的作弊增强Mod，使其能够在游戏内强制开启作弊功能，且仍可获得成就，并且还有许多附加功能
-- 此Mod需要使用[模组加载器](https://github.com/Lyoko-Jeremie/DoLModLoaderBuild/releases)
+- 此Mod需要使用[模组加载器](https://github.com/Lyoko-Jeremie/DoLModLoaderBuild/releases) 
 并搭配[DOL中文本地化Mod](https://github.com/NumberSir/DoL-I18n-Build/releases)使用
 
 ### Mod功能
@@ -32,7 +31,7 @@
 - 6.牛奶产量调整、容量调整
 - 7.开启言灵
 - 8.旧版自定言灵(左侧状态栏)
-- By 用户_aeVUUeW@贴吧-DOL吧
+ - By 用户_aeVUUeW@贴吧-DOL吧
 - 9.疼痛衰减、伤害加倍
 - 10.在自宅用功学习、不想努力模式(学习进度120%)
 - 11.新增若干快捷言灵
