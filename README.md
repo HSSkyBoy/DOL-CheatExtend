@@ -6,6 +6,7 @@
 - [Vrelnir 的博客][blog]
 - [游戏英文wiki][wiki-en]
 - [游戏中文wiki][wiki-cn]
+  -［国内模组列表][CNMOD]
 - [官方 Discord][discord]
 - [游戏源码仓库][gitgud]
 
@@ -97,3 +98,4 @@
 [discord]: https://discord.gg/VznUtEh
 [JML]:https://github.com/Lyoko-Jeremie/sugarcube-2-ModLoader  
 [DOLCNL]:https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization 
+[CNMOD]:https://degreesoflewditycn.miraheze.org/wiki/%E6%A8%A1%E7%BB%84%E5%88%97%E8%A1%A8
